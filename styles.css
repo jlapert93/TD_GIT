@@ -3,6 +3,7 @@ h1 {
 }
 
 p {
-    color: cyan;
+    color: azure;
+    font-family: "Courier New", Courier, monospace;
     font-size: larger;
 }
