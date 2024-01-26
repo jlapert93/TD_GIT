@@ -1,2 +1,2 @@
-console.log("plouf-plouf");
+console.log("plouf-plouf-plouf");
 alert("plop");
