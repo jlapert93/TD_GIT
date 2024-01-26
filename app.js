@@ -1,2 +1,2 @@
 console.log("plouf-plouf-plouf");
-alert("plop");
+alert("plop-plop");
